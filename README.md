@@ -40,8 +40,8 @@ Hover states can be tested using the live site below.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Repository](https://github.com/jguleserian/FMC-NFT-Preview-Card-Component.git)
+- Live Site URL: [Add live site URL here](https://jguleserian.github.io/FMC-NFT-Preview-Card-Component/)
 
 ## My process
 
@@ -86,4 +86,11 @@ Jeff Guleserian
 
 ## Acknowledgments
 
-I want to thank all my fellow-coders at Frontend Mentor who have taken the time to look through my work and provide helpful insight and constructive feedback.
+I want to thank all my fellow-coders at Frontend Mentor who have taken the time to look through my work and provide helpful insight and constructive feedback. Their feedback has been pure gold.
+Here are a few of the gems I've received along the way:
+
+- @Haywayaheadshot - Better focused me on the underlying structure of my HTML. He made something "click" in my head that brougt more clarity to the topic.
+- @vcarames - Showed me a better way to handle image changes at different breakpoints. He gave me a "heads up" about my heading (vs. paragraph, etc.) choices to make sure that screen readers could do their job better.
+- @MelvinAguilar - Showed me more on utilizing headings, in this case hiding my <h1> so a screen reader could announce the page properly, but keeping it from affecting the visual flow of the page; he also alerted me to the fact that the use of the "62.5% Rule" was not as widespread as I thought. This started me on some research so that, regardless of where I end up on the extent of using it, I'll be making an informed decision and build flexibility in my design process.
+
+Thank you, fellow coders, for investing in this learning community and in me personally.
