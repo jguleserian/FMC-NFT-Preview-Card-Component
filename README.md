@@ -57,9 +57,9 @@ Hover states can be tested using the live site below.
 
 ### What I learned
 
-As I stated in the introduction, my expectation was that this was a small, quick, project, with less detail that I had at first estimated. Consequently, as I built the CSS for the card, I regularly went back and modified some of my previous code to do some "clean up." This happened to a lesser extent with the HTML, since modifications here were only as a result of changes in the corresponding style sheet.
+As I stated in the introduction, my expectation was that this was a small, quick, project, with less detail that I had at first estimated. Consequently, as I built the CSS for the card, I regularly went back and modified some of my previous code to do some "clean up." This happened to a lesser extent with the HTML, since modifications here were only as a result of changes in the corresponding style sheet. 
 
-Where I ended up spending a bit more time was in building proficiency in creating overlays. In the end, I decided to create a flex <div> container with two child <div>, one with the original image, and the second with the overlay image. I then set a negative margin on the second <div> to position it over the first image. As a final step, I styled the background-color, opacity, etc. in addition to the hover effect. I am aware that there are other ways to create a hover effect, so if the reader of this text has a suggestion for improvement, or alternatives for various use cases, I would heartily welcome it.
+Where I ended up spending a bit more time was in building proficiency in creating overlays. In the end, I decided to create a flex div container with two child div, one with the original image, and the second with the overlay image. I then set a negative margin on the second div to position it over the first image. As a final step, I styled the background-color, opacity, etc. in addition to the hover effect. I am aware that there are other ways to create a hover effect, so if the reader of this text has a suggestion for improvement, or alternatives for various use cases, I would heartily welcome it.
 
 
 ### Continued development
@@ -90,7 +90,7 @@ I want to thank all my fellow-coders at Frontend Mentor who have taken the time 
 Here are a few of the gems I've received along the way:
 
 - @Haywayaheadshot - Better focused me on the underlying structure of my HTML. He made something "click" in my head that brougt more clarity to the topic.
-- @vcarames - Showed me a better way to handle image changes at different breakpoints. He gave me a "heads up" about my heading (vs. paragraph, etc.) choices to make sure that screen readers could do their job better.
-- @MelvinAguilar - Showed me more on utilizing headings, in this case hiding my <h1> so a screen reader could announce the page properly, but keeping it from affecting the visual flow of the page; he also alerted me to the fact that the use of the "62.5% Rule" was not as widespread as I thought. This started me on some research so that, regardless of where I end up on the extent of using it, I'll be making an informed decision and build flexibility in my design process.
+- @vcarames - Showed me a better way to handle image changes at different breakpoints. He gave me a "heads up" about my heading, vs. paragraph, etc., choices to make sure that screen readers could do their job better.
+- @MelvinAguilar - Showed me more on utilizing headings, in this case hiding my h1 so a screen reader could announce the page properly, but keeping it from affecting the visual flow of the page; he also alerted me to the fact that the use of the "62.5% Rule" was not as widespread as I thought. This started me on some research so that, regardless of where I end up on the extent of using it, I'll be making an informed decision and build flexibility in my design process.
 
 Thank you, fellow coders, for investing in this learning community and in me personally.
